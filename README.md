@@ -1,5 +1,4 @@
 # hello-world
-My first repository
 
 Today is March 6 2020 and I join in GitHub at this day. I'm now intresting in machine learning and datamining. And I am learning to program with python. Hope to learn further here. 
 
